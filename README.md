@@ -1,0 +1,2 @@
+# miniProjectJS
+project of javaScript
