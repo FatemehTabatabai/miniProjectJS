@@ -1,0 +1,14 @@
+.container {
+  color: rgb(237, 235, 225);
+}
+#btn {
+  border-radius: 10px;
+  padding: 10px;
+  font-size: 15px;
+  border: none;
+  background: linear-gradient(0.25turn, #3f87a6, #4d6a77, #134b61);
+  color: white;
+}
+.randomNumber {
+  padding-top: 15px;
+}
